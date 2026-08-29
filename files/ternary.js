@@ -1,0 +1,1 @@
+4>3 ? console.log("4 is greater than 3") : console.log("4 is not greater than 3");
