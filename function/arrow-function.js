@@ -30,3 +30,5 @@ const multiply = (num1, num2) => {
   return result;
 }
 console.log(multiply(5, 10)); // Output: 50
+
+const numbers = [1, 2, 3, 4, 5];
