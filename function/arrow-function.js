@@ -1,3 +1,4 @@
+//simple function
 function add(num1, num2) {
   return num1 + num2;
 }
@@ -7,7 +8,7 @@ const addExpression = function(num1, num2) {
   return num1 + num2;
 };
 
-//arrow function
+//arrow function expression
 const addArrow = (num1, num2) => {
   return num1 + num2;
 };
